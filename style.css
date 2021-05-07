@@ -1,8 +1,14 @@
 body{
 text-align: center;
-background: blue;
+background: lightblue;
 }
 #input1,#input2{
     width: 800;
     height: 30;
+}
+.b1{
+    background: coral;
+}
+#p1name, #p2name{
+    display: inline-block;
 }
